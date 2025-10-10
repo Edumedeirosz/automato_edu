@@ -19,4 +19,4 @@ O simulador funciona totalmente via **linha de comando**, sem interface gráfica
 Na linha de comando, dentro da pasta do projeto, execute:
 
 ```bash
-$ python src/simulador.py tests/arquivo_do_automato.aut tests/arquivo_de_testes.in arquivo_de_saida.out
+$ python simulador.py arquivo_do_automato.aut arquivo_de_testes.in arquivo_de_saida.out
