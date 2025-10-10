@@ -1,0 +1,9 @@
+{
+    "initial": "q0",
+    "final": ["q3"],
+    "transitions": [
+        {"from": "q0", "to": "q1", "read": "a"},
+        {"from": "q1", "to": "q2", "read": "b"},
+        {"from": "q2", "to": "q3", "read": "c"}
+    ]
+}
