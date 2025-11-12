@@ -16,7 +16,7 @@ O simulador funciona totalmente via **linha de comando**, sem interface gráfica
 ---
 
 ## Como Executar
-Na linha de comando, dentro da pasta do projeto, execute:
+Caso queira executar para receber o .out usando a linha de comando, dentro da pasta do projeto, execute:
 
 ```bash
 $ python simulador.py arquivo_do_automato.aut arquivo_de_testes.in arquivo_de_saida.out
